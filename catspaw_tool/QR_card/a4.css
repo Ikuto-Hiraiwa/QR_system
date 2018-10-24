@@ -1,0 +1,14 @@
+
+body{
+    margin: 11mm 9mm;
+}
+
+td{
+    width:48mm;
+    height: 25mm;
+    border: 0.5px;
+}
+
+tr{
+    border: 0.5px;
+}
